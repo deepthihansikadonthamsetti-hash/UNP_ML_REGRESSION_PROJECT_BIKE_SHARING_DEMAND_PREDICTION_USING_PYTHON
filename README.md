@@ -22,7 +22,7 @@
 
 ### Project Resources & Drive Links
 
-* **Project Presentation Link:** https://drive.google.com/drive/folders/1qZAE4tEdfjynuHNjrnp2Jr12HggPzjba?usp=drive_link
+* **Project Presentation Link:** https://docs.google.com/presentation/d/10Kw8RFW7m2bmFHBiwKsigRC3nsbb0neh/edit?usp=sharing&ouid=111677692563139307783&rtpof=true&sd=true
 * **Dataset Access Link:** https://drive.google.com/file/d/19rhr1WkBefRU_v5qiF8ihiMczy5Oifon/view?usp=drive_link
 * **Dataset Details Link:** https://drive.google.com/file/d/1J2CIoda3w8jMzBgFNCF1mKolh39jDSKn/view?usp=drive_link
 

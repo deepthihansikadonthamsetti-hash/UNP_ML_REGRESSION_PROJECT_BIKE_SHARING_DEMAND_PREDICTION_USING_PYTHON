@@ -12,16 +12,23 @@
 
 ### Interactive Notebooks (Google Colab)
 
-* **Experiment 1 (Without Time Features):**[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1UHSLPbnOHMNUB3gnyCHp-f0BcrGyM0G4/view?usp=drive_link)
-  *Colab URL:* `https://drive.google.com/file/d/1UHSLPbnOHMNUB3gnyCHp-f0BcrGyM0G4/view?usp=drive_link`
-* **Experiment 2 (With Time Features Included):**[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1SenDbRpua2glpqv-FpaG851gmQbxyEKD/view?usp=drive_link)
-  *Colab URL:* `https://drive.google.com/file/d/1SenDbRpua2glpqv-FpaG851gmQbxyEKD/view?usp=drive_link`
+* **Experiment 1 (Without Time Features):**
+
+(https://drive.google.com/file/d/1UHSLPbnOHMNUB3gnyCHp-f0BcrGyM0G4/view?usp=drive_link)
+  
+  *Colab URL:* https://drive.google.com/file/d/1UHSLPbnOHMNUB3gnyCHp-f0BcrGyM0G4/view?usp=sharing
+
+* **Experiment 2 (With Time Features Included):**
+
+(https://drive.google.com/file/d/1SenDbRpua2glpqv-FpaG851gmQbxyEKD/view?usp=drive_link)
+  
+  *Colab URL:* https://drive.google.com/file/d/1SenDbRpua2glpqv-FpaG851gmQbxyEKD/view?usp=drive_link
 
 ### Project Resources & Drive Links
 
-* **Project Presentation Link:** `https://docs.google.com/presentation/d/10Kw8RFW7m2bmFHBiwKsigRC3nsbb0neh/edit?usp=drive_link&ouid=100423478795265344499&rtpof=true&sd=true`
-* **Dataset Access Link:** `https://drive.google.com/file/d/19rhr1WkBefRU_v5qiF8ihiMczy5Oifon/view?usp=drive_link`
-* **Dataset Details Link:** `https://drive.google.com/file/d/1J2CIoda3w8jMzBgFNCF1mKolh39jDSKn/view?usp=drive_link`
+* **Project Presentation Link:** https://drive.google.com/drive/folders/1qZAE4tEdfjynuHNjrnp2Jr12HggPzjba?usp=drive_link
+* **Dataset Access Link:** https://drive.google.com/file/d/19rhr1WkBefRU_v5qiF8ihiMczy5Oifon/view?usp=drive_link
+* **Dataset Details Link:** https://drive.google.com/file/d/1J2CIoda3w8jMzBgFNCF1mKolh39jDSKn/view?usp=drive_link
 
 ---
 

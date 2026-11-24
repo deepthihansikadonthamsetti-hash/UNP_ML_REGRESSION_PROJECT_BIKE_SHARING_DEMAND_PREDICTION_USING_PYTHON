@@ -13,14 +13,10 @@
 ### Interactive Notebooks (Google Colab)
 
 * **Experiment 1 (Without Time Features):**
-
-(https://drive.google.com/file/d/1UHSLPbnOHMNUB3gnyCHp-f0BcrGyM0G4/view?usp=drive_link)
   
   *Colab URL:* https://drive.google.com/file/d/1UHSLPbnOHMNUB3gnyCHp-f0BcrGyM0G4/view?usp=sharing
 
 * **Experiment 2 (With Time Features Included):**
-
-(https://drive.google.com/file/d/1SenDbRpua2glpqv-FpaG851gmQbxyEKD/view?usp=drive_link)
   
   *Colab URL:* https://drive.google.com/file/d/1SenDbRpua2glpqv-FpaG851gmQbxyEKD/view?usp=drive_link
 
